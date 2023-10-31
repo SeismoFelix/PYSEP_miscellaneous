@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2">
+  <eventParameters publicID="smi:local/b8a22c47-094a-4608-b46f-93b19ad9c754">
+    <event publicID="smi:local/86d22166-fc1a-4381-9bde-5df953b43fea">
+      <preferredOriginID>smi:local/8e4dd18e-1b48-4fab-9ce0-04be22fcd023</preferredOriginID>
+      <preferredMagnitudeID>smi:local/465145d2-efdc-4c5a-b22d-805249e6db45</preferredMagnitudeID>
+      <origin publicID="smi:local/8e4dd18e-1b48-4fab-9ce0-04be22fcd023">
+        <time>
+          <value>2014-08-25T16:19:03.000000Z</value>
+        </time>
+        <latitude>
+          <value>64.612</value>
+        </latitude>
+        <longitude>
+          <value>-17.472</value>
+        </longitude>
+        <depth>
+          <value>50000.0</value>
+        </depth>
+      </origin>
+      <magnitude publicID="smi:local/465145d2-efdc-4c5a-b22d-805249e6db45">
+        <mag>
+          <value>4.6</value>
+        </mag>
+        <type>Mw</type>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>

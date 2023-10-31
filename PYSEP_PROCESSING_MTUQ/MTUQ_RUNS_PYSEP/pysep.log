@@ -1,0 +1,18 @@
+[2023-10-30 21:33:04] - pysep - DEBUG: running PySEP version 0.4.1
+[2023-10-30 21:33:04] - pysep - INFO: overwriting default parameters with config file: '/Users/felix/opt/anaconda3/envs/pysep_latest/lib/python3.12/site-packages/pysep/configs/mtuq_workshop_2022/2020-04-04T015318_SOUTHERN_CALIFORNIA.yaml'
+[2023-10-30 21:33:04] - pysep - DEBUG: event_tag: None -> 2020-04-04T015318_SOUTHERN_CALIFORNIA
+[2023-10-30 21:33:04] - pysep - DEBUG: config_file: /Users/felix/opt/anaconda3/envs/pysep_latest/lib/python3.12/site-packages/pysep/configs/mtuq_workshop_2022/2020-04-04T015318_SOUTHERN_CALIFORNIA.yaml -> None
+[2023-10-30 21:33:04] - pysep - DEBUG: origin_time: None -> 2020-04-04T01:53:18.920000Z
+[2023-10-30 21:33:04] - pysep - DEBUG: event_latitude: None -> 33.49
+[2023-10-30 21:33:04] - pysep - DEBUG: event_longitude: None -> -116.506
+[2023-10-30 21:33:04] - pysep - DEBUG: event_depth_km: None -> 10.5
+[2023-10-30 21:33:04] - pysep - DEBUG: event_magnitude: None -> 4.9
+[2023-10-30 21:33:04] - pysep - DEBUG: networks: * -> CI
+[2023-10-30 21:33:04] - pysep - DEBUG: stations: * -> BAR,IKP,PLM,GLA,BC3,PDM,IRM,DAN,GMR,TUQ,HEC,GSC,RRX,BBR,SCI2,CIA,SDD,VTV,ADO,ARV,DGR,SVD,DJJ,FMP,-SWS
+[2023-10-30 21:33:04] - pysep - DEBUG: channels: * -> BH?
+[2023-10-30 21:33:04] - pysep - DEBUG: reference_time: None -> 2020-04-04T01:53:18.920000Z
+[2023-10-30 21:33:04] - pysep - DEBUG: maxdistance_km: 20000.0 -> 300.0
+[2023-10-30 21:33:04] - pysep - DEBUG: rotate: None -> ['ENZ', 'RTZ']
+[2023-10-30 21:33:04] - pysep - DEBUG: resample_freq: None -> 50
+[2023-10-30 21:33:04] - pysep - DEBUG: remove_clipped: True -> False
+[2023-10-30 21:33:04] - pysep - DEBUG: `log_level` set to DEBUG

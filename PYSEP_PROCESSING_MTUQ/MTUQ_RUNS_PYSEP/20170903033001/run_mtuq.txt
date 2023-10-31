@@ -1,0 +1,2 @@
+mpirun -np 8 python GridSearch.DoubleCouple_SW_BW_options.py -event 20170903033001 -evla 41.332401275634766 -evlo 129.02969360351562 -evdp 1000.0 -mw 5.2 -time 2017-09-03T03:30:01.000000Z -np 50 -fb 15-33
+mpirun -np 8 python GridSearch.FMT_SW_BW_options.py -event 20170903033001 -evla 41.332401275634766 -evlo 129.02969360351562 -evdp 1000.0 -mw 5.2 -time 2017-09-03T03:30:01.000000Z -np 11 -fb 15-33
