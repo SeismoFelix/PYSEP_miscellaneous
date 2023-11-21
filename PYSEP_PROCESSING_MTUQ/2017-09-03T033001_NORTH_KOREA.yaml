@@ -48,5 +48,5 @@ remove_masked_data: true
 fill_data_gaps: false
 gap_fraction: 1.0
 log_level: DEBUG
-_legacy_naming: true
+legacy_naming: true
 write_files: inv,event,stream,sac,weights_code
