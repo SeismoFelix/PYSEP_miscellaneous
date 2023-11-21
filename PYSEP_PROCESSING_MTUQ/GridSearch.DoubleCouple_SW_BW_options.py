@@ -24,7 +24,7 @@ def parse_args():
     #parser.add_argument("-mdir",type=str,help="Main dir: -mdir /Users/felix/Documents/INVESTIGACION/2_FEB_JUL_2022/IRIS_WORKSHOP/MTUQ_INVERSIONS/FK_VS_1D_CUBIC_MESH/gs_mtuq")
     parser.add_argument("-event",type=str,help="Event ID (event directory must be in main dir): -event 20140823183304000 ")
     parser.add_argument("-evla",type=str,help="Latitude: -evla 64.68 ")
-    parser.add_argument("-evlo",type=str,help="longitude: -evla -98.2 ")
+    parser.add_argument("-evlo",type=str,help="longitude: -evlo -98.2 ")
     parser.add_argument("-evdp",type=str,help="Depth in m: -evdp 1000.0")
     parser.add_argument("-mw",type=float,help="Magnitude: -mw 4.9")
     parser.add_argument("-time", type=str,help="Origin time: -time 2014-08-25T16:19:03.00000Z")
